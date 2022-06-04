@@ -1,0 +1,1 @@
+# autotest-EPOS-permkrai
